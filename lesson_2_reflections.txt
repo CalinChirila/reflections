@@ -20,3 +20,8 @@ With branches, we can explore as much as we want without the fear of ruining the
 
 5. How do the diagrams help you visualize the branch structure?
 Like a timeline.
+
+6. What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+The result is a single master branch that contains all the commits from the 2 branches sorted by time-stamp. We represent it in this way to highlight the fact that the branches don't influence eachother
+prior to the merge.
