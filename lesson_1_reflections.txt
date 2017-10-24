@@ -1,0 +1,30 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+By comparing a code that works with a new version of code that didn't, I was able to
+easly spot the difference and figure out what was wrong.
+
+2. How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+When trying to add more features to an already working code, there is the risk of messing up the program.
+By saving previous versions of the code, we can easily revert to an earlier, working version of the code.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+PROS: By manually choosing when to commit, I can make sure that each version of the code
+is complete. Different versions of the code are easy to follow.
+CONS: Commits could be too small, or too large, making the gap between different versions
+either too big or too small.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Changes in one file could require changes in another file aswell. In this case, it's a good ideea to
+allow multiple file saves in one commit.
+
+5. How can you use the commands git log and git diff to view the history of files?
+I use git log to get a list of all the commits that have been made, along with a short description.
+Then I use git diff along with the ids of the two commits that I want to compare.
+
+6. How might using version control make you more confident to make changes that could break something?
+By knowing that I can always revert any changes I make, I will never fear breaking the code so bad that
+I might have to start all over again. This allows me to try and experiment as much as I want.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+I will use it for complex android projects that have many features and will require lots of changes.
