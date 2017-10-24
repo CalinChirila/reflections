@@ -1,4 +1,10 @@
 1. What happens when you initialize a repository? Why do you need to do it?
 When initializing a repository, I create a hidden folder that will keep track of all the different
 versions of the document, at different commits. Otherwise, the folder will only contain the
-earliest version. 
+earliest version.
+
+2. How is the staging area different from the working directory and the repository? 
+What value do you think it offers? 
+The staging area is like the middle ground between the working directory and the repository.
+The staging area contains files from the working directory that are to be commited and added
+to the repository. The staging area gives the users some flexibility with operating files.
