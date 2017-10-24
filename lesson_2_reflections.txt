@@ -8,3 +8,7 @@ What value do you think it offers?
 The staging area is like the middle ground between the working directory and the repository.
 The staging area contains files from the working directory that are to be commited and added
 to the repository. The staging area gives the users some flexibility with operating files.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+By using it to compare the files in the staging area with those in the working directory and the most
+recent commit in the repository.
