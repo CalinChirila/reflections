@@ -25,3 +25,7 @@ Like a timeline.
 Why do we represent it in the diagram the way we do?
 The result is a single master branch that contains all the commits from the 2 branches sorted by time-stamp. We represent it in this way to highlight the fact that the branches don't influence eachother
 prior to the merge.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: the process is fast
+Cons: Conflicts still need to be resolved manually
