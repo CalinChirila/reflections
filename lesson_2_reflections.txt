@@ -17,3 +17,6 @@ recent commit in the repository.
 How would branches help?
 Branches are life-savers when it comes to trying out some experimental code or wild ideas.
 With branches, we can explore as much as we want without the fear of ruining the working base code.
+
+5. How do the diagrams help you visualize the branch structure?
+Like a timeline.
