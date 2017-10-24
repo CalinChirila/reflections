@@ -1,0 +1,4 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+When initializing a repository, I create a hidden folder that will keep track of all the different
+versions of the document, at different commits. Otherwise, the folder will only contain the
+earliest version. 
