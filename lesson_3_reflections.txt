@@ -10,3 +10,6 @@ repository without my knowledge.
 Forks are a tool specific to GitHub and are available only within GitHub. They are basicaly a clone that reference the original owner. They are used when we want to make changes to a repository that we do not own.
 Clones are copies of a repository. They are not specific to GitHub.
 Branches represent a series of commits. We branch out of the master branch when we want to try out experimental code. When the experiment is a success, we merge the experiment branch with the master branch.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+I get the latest changes. If someone else fixed a bug, I won't have to deal with that same bug.
