@@ -13,3 +13,8 @@ Branches represent a series of commits. We branch out of the master branch when 
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 I get the latest changes. If someone else fixed a bug, I won't have to deal with that same bug.
+
+5. How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+I would just send my files to a co-worker, or have multiple co-workers work on the same device.
+But now that I know about GitHub, that solution seems stone-age. It would be very easy to do so, but not efficient. Using GitHub is difficult at first, but it can only get easier with practice, and it's far more efficient. All I have to do is hang in there untill I practice enough with GitHub.
