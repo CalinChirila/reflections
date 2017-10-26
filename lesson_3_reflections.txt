@@ -18,3 +18,8 @@ I get the latest changes. If someone else fixed a bug, I won't have to deal with
 What would be easier, and what would be harder?
 I would just send my files to a co-worker, or have multiple co-workers work on the same device.
 But now that I know about GitHub, that solution seems stone-age. It would be very easy to do so, but not efficient. Using GitHub is difficult at first, but it can only get easier with practice, and it's far more efficient. All I have to do is hang in there untill I practice enough with GitHub.
+
+6. When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+The master branch is the code that everyone uses. When implementing new features, I want to make sure
+that they work before I mergem them into the master branch. This is where making changes in a separate branch comes in. I would merge directly in master only if I know that everything is working perfectly.
